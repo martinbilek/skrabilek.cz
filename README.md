@@ -1,0 +1,2 @@
+# skrabilek.cz
+static website
