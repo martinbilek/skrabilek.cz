@@ -1,0 +1,10 @@
+html {font-family:Arial;}
+.blind,#nav,#logo,#mapa,#menu,#navigation,#lang,#search,#right {display:none;}
+#head:after {content:"Skrabilek.cz";font-size:45px;font-family:Georgia;}
+.box {float:left; margin:1em 2em 1em 0;}
+.box span {display:none;}
+.box h3 {margin:0.3em 0 1em 0;}
+#foot {text-align:center;}
+.reset {clear:both;}
+a {text-decoration:none;color:#000;}
+img{border:0;}

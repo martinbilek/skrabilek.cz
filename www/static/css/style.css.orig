@@ -1,0 +1,316 @@
+/** RESET **/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+:focus {
+	outline: 0;
+}
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/** KONEC RESET **/
+html {
+	font-family: Trebuchet MS, Tahoma;
+	font-size:13px;
+	background:url(../img/contentGrad.gif);
+}
+
+a:hover,a:focus,a:active {
+	text-decoration:none;
+}
+
+#head {
+  height:200px;
+	background:url(../img/headGrad.gif) repeat-x;
+}
+#logo {
+  padding:61px 0 0 0;
+	height:139px;
+	width:1054px;
+	margin:0 auto 0 auto;
+	background:url(../img/headDecoration.gif) right no-repeat;
+}
+/** MENU **/
+#menu {
+	background:url(../img/menuGrad.gif) repeat-x;
+	height:38px;
+}
+#menu ul {
+	width:790px;
+	margin:0 auto 0 auto;
+	height:38px;
+  padding:4px 0 0 0;
+}
+#menu ul li {
+	display:block;
+	float:left;
+	margin:0 3px 0 3px;
+}
+#menu ul li a {
+	height:30px;
+	line-height:30px;
+	display:block;
+  text-transform: uppercase;
+	font-weight:bold;
+	color:#fff;
+	text-decoration:none;
+  cursor: hand;
+	_float:left;
+}
+#menu ul li a span {
+  display: block;
+  height:30px;
+	_float:left;
+}
+#menu ul li a span span {
+  padding: 0 15px 0 15px;
+  height:30px;
+}
+#menu ul li a:hover,#menu ul li a:focus,#menu ul li a:active {
+  background:url(../img/menuInit.gif) repeat-x;
+}
+#menu ul li a:hover span,#menu ul li a:focus span,#menu ul li a:active span {
+  background:url(../img/menuInitLeft.gif) left no-repeat;
+}
+#menu ul li a:hover span span,#menu ul li a:focus span span,#menu ul li a:active span span {
+  background:url(../img/menuInitRight.gif) right no-repeat;
+}
+/** KONEC MENU **/
+#decorationContent {
+	background:url(../img/contentDecoration.jpg) center top no-repeat;
+}
+#center {
+	width:936px;
+	margin:0 auto 0 auto;
+	background:#fff;
+	padding:21px 19px 0 19px;
+}
+#centerDecoration {
+  background:url(../img/contentInDecoration.jpg);
+	padding:20px 0 30px 0;
+}
+#content {
+	background:url(../img/rozdelovac.gif) 685px 0px repeat-y;
+	padding:0 0 0 30px;
+	position:relative;
+  color:#58595b;
+}
+#content a {
+  color:#738b97;
+}
+#article {
+	width:650px;
+	float:left;
+	margin:30px 0 0 0;
+}
+#right {
+	margin:0 0 0 672px;
+}
+#navigation {
+	position:absolute;
+	top:0px;
+	clear:both;
+  color:#738b97;
+}
+#navigation a {
+	font-weight:bold;
+}
+.navig {
+    padding-left: 8px;
+}
+/** HLEDANI **/
+form#search {
+	float:right;
+	position:absolute;
+	top:21px;
+	margin:0 0 0 680px;
+	width:300px;
+}
+form#search input {
+	height:21px;
+	width:91px;
+	background:url(../img/searchButton.png) no-repeat;
+	border:0;
+	float:left;
+	color:#fff;
+}
+form#search span input {
+  width:160px;
+	border:0;
+	background:none;
+	padding:2px 10px 0 30px;
+	color:#000;
+}
+form#search span {
+	background:url(../img/searchInput.png) no-repeat;
+	display:block;
+	float:left;
+	margin:0 3px 0 0;
+}
+
+form#search a {
+	padding:0 0 0 10px;
+	line-height:25px;
+	color:#fff;
+}
+/** KONEC HLEDANI **/
+
+/** HOMEPAGE **/
+h2 {
+	clear:both;
+	margin:18px 0 18px 0;
+	font-size:2em;
+}
+#hp #article {
+  color:#738b97;
+}
+/** KONEC HOMEPAGE **/
+/** TRIP **/
+#article p {
+    line-height:16px;
+    margin:8px 30px 8px 0;
+    text-align:justify;
+}
+#article h1 {
+    font-size:20px;
+    color:#738b97;
+}
+#article img.main_photo {
+	margin:10px 0 0 0;
+}
+#article p.perex {
+  font-weight: bold;
+  font-style: italic;
+}
+#article hr {
+    color: #fff;
+    background-color: #738b97;
+    height: 1px;
+    margin:20px 30px 20px 0;
+}
+#article p.articleInfo {
+    margin:0 30px 0 0;
+    font-style: italic;
+    text-align:right;
+}
+#article .inline {
+}
+
+#article .gallery {
+    margin:20px 30px 20px 0;
+    padding:10px 20px 10px 20px;
+    border-top:1px solid #ddd;
+    border-bottom:1px solid #ddd;
+    background:#eee;
+}
+#article .gallery img {
+    border:1px solid #555;
+    margin:10px 5px;
+}
+
+ul li {
+  margin:3px 0 3px 0;
+  line-height:16px;
+}
+/** KONEC TRIP **/
+.box {
+	padding:12px 14px 0 12px;
+	margin:0 28px 28px 0;
+}
+.box img {
+	margin:0 10px 10px 0;
+	float:left;
+	border:1px solid #555;
+}
+.box h3 {
+    font-size:1.2em;
+}
+.box h3 a {
+ background:url(../img/boxSipka.gif) right bottom no-repeat;
+ display:block;
+}
+
+
+
+
+
+#foot {
+	height:148px;
+	padding:28px 0 0 0;
+	text-align:center;
+	background:url(../img/footGrad.gif) repeat-x;
+	color:#fff;
+	line-height:15px;
+}
+#foot a {
+	color:#fff;
+	font-weight:bold;
+	text-decoration:none;
+}
+#foot a:hover,#foot a:focus,#foot a:active {
+	text-decoration:underline;
+}
+
+/** OSTATNI **/
+.floatLeft {
+  float:left;
+}
+.floatRight {
+  float:right;
+}
+.blind {
+	position:absolute;
+	left:-10000px;
+	margin:-1000px 0 0 0;
+	width:1px;
+	height:1px;
+}
+.reset {
+	border:0 none;
+	clear:both;
+	float:none;
+	font-size:0;
+	height:0;
+	line-height:0;
+	margin:0;
+	padding:0;
+	width:0;
+}
+/** OSTATNI KONEC **/
+
+

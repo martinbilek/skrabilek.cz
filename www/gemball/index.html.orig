@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" >
+    <head>
+        <title>
+            
+            
+                gemball
+            
+            - Skrabilek.cz</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name='description' content='' />
+        <meta name='keywords' content='' />
+        <meta name='robots' content='index, follow' />
+        <meta name='googlebot' content='index,follow,snippet,archive' />
+        <meta name='author' content='(c) 2009 Fragaria s.r.o.' />
+        <meta name='copyright' content='(c) 2009 Fragaria s.r.o.' />
+        <link rel='stylesheet' type='text/css' href='/static/css/style.css' media='screen,projection,tv' />
+        <link rel='stylesheet' type='text/css' href='/static/css/print.css' media='print' />
+        <link rel="stylesheet" type='text/css' href="/static/css/slimbox2.css" media="screen,projection,tv" />
+        <script type="text/javascript" src="/static/js/jquery.js"></script>
+        <script type="text/javascript" src="/static/js/google.js"></script>
+        <script type="text/javascript" src='/static/js/slimbox/slimbox2.js'></script>
+    </head>
+    <body id='hp'>
+
+        <!-- head -->
+        <div id='head'>
+            <div id='logo'>
+                <h1><a href='/' title='Hlavní strana - Skrabilek.cz' accesskey='2'><img src='/static/img/skrabilek-logo.jpg' alt='Skrabilek.cz' role='banner' /></a></h1>
+            </div>
+        </div>
+        <!-- /head -->
+
+        <ul class='blind' role='navigation'>
+            <li><a href='#content' accesskey='0'>Na obsah stránky</a></li>
+            <li><a href='http://www.ippi.cz/klavesove-zkratky/neni-mapa-stranek.html' accesskey='1'>Klávesové zkratky na tomto webu</a></li>
+            <li><a href='#nav'>Na menu</a></li>
+        </ul>
+
+        <!-- menu -->
+        <div id='menu'>
+            
+            
+                <ul>
+	<li><a href='/'><span><span>HOME</span></span></a></li>
+	<li><a href='/mastercheff/'><span><span>MasterCheff</span></span></a></li>
+	<li><a href='/gemball/'><span><span>Gemball</span></span></a></li>
+	<li><a href='http://www.fragaria.cz/'><span><span>Fragaria.cz</span></span></a></li>
+</ul>
+            
+        </div>
+        <!-- /menu -->
+
+        <!-- content decoration -->
+        <div id='decorationContent'>
+            <div id='center'>
+                <div id='centerDecoration'>
+
+                    <!-- content -->
+                    <div id='content'>
+
+                        <!-- content of article(s) -->
+                        <div id='article' role='main'>
+                            
+
+    
+    
+    
+
+        <h2>gemball</h2>
+
+        
+        
+            <div class='box'>
+    
+        <a href='/gemball/2011/12/1/skotsko-2009/'>
+
+<img src="http://1.media.fragaria.cz/skrabilek/photos/2011/12/09/1-15-skotsko-2009-spolecna-na-ben-nevisu_.jpg" alt="Skotsko 2009 Spolecna na Ben Nevisu" width="120" height="71" /></a>
+</a>
+    
+    <h3><a href='/gemball/2011/12/1/skotsko-2009/'>Skotsko 2009</a></h3>
+    <p>Přelom května a června (2009) byl letos vyhrazen gemballu Skotsko. Vzhledem k tomu, že gemball byl open přiletěli v pátek večer nejen ošlehaní nepálští vlci, ale v případě doktora a Ivana i jejich drahé polovičky Lída s Lenkou. Dlouho jsem přemýšlel jak si s touto situací poradit, ale nicméně nakonec jsem to nechal vytříbit a ve skutečnosti byl gemball zorganizovaný skoro stejně jako close.
+</p>
+    <hr class="reset" />
+</div>
+
+        
+
+    
+        
+
+                        </div>
+                        <!-- /content of article(s) -->
+                    
+                        <!-- right column -->
+                        <div id='right'>
+                            <img src='/static/img/photos/reklama.jpg' alt=''/>
+                        </div>
+                        <!-- /right column -->
+
+                        <!-- navigation -->
+                        <div id='navigation' role='navigation'>
+                            
+                                 
+
+    Nacházíte se: <a href='/'>Hlavní stránka</a>
+    >> <a href='/gemball/'>gemball</a>
+
+
+                            
+                        </div>
+                        <!-- /navigation -->
+
+                        <br class='reset'/>
+                    </div>
+                    <!-- /content -->
+
+                </div>
+
+                <!-- search -->
+                <form id="search" action="/vyhledavani/" >
+                    <div>
+                        <input id ="query" type="hidden" name="cx" value='009313606427272340601:ilom8pk5hd0' />
+                        <input type="hidden" name="cof" value="FORID:11" />
+                        <input type="hidden" name="ie" value="UTF-8" />
+                        <span><input type="text" name="q" size="10" id="googleInput" placeholder="Hledej na Skrabilek.cz"/></span>
+                        <input type="submit" name="sa" class='button' value="Hledej"/>
+                    </div>
+                </form>
+                <!-- /search -->
+
+            </div>
+        </div>
+        <!-- /content decoration -->
+
+        <hr />
+
+        <!-- footer -->
+        <div id="foot">
+    
+    
+</div>
+
+        <!-- /footer -->
+
+        <ul class='blind' role='navigation'>
+            <li><a href='#content'>Na začátek obsahu</a></li>
+            <li><a href='#nav'>Na menu</a></li>
+        </ul>
+    </body>
+</html>

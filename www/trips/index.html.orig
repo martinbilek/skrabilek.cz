@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" >
+    <head>
+        <title>
+            
+            
+                trips
+            
+            - Skrabilek.cz</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name='description' content='' />
+        <meta name='keywords' content='' />
+        <meta name='robots' content='index, follow' />
+        <meta name='googlebot' content='index,follow,snippet,archive' />
+        <meta name='author' content='(c) 2009 Fragaria s.r.o.' />
+        <meta name='copyright' content='(c) 2009 Fragaria s.r.o.' />
+        <link rel='stylesheet' type='text/css' href='/static/css/style.css' media='screen,projection,tv' />
+        <link rel='stylesheet' type='text/css' href='/static/css/print.css' media='print' />
+        <link rel="stylesheet" type='text/css' href="/static/css/slimbox2.css" media="screen,projection,tv" />
+        <script type="text/javascript" src="/static/js/jquery.js"></script>
+        <script type="text/javascript" src="/static/js/google.js"></script>
+        <script type="text/javascript" src='/static/js/slimbox/slimbox2.js'></script>
+    </head>
+    <body id='hp'>
+
+        <!-- head -->
+        <div id='head'>
+            <div id='logo'>
+                <h1><a href='/' title='Hlavní strana - Skrabilek.cz' accesskey='2'><img src='/static/img/skrabilek-logo.jpg' alt='Skrabilek.cz' role='banner' /></a></h1>
+            </div>
+        </div>
+        <!-- /head -->
+
+        <ul class='blind' role='navigation'>
+            <li><a href='#content' accesskey='0'>Na obsah stránky</a></li>
+            <li><a href='http://www.ippi.cz/klavesove-zkratky/neni-mapa-stranek.html' accesskey='1'>Klávesové zkratky na tomto webu</a></li>
+            <li><a href='#nav'>Na menu</a></li>
+        </ul>
+
+        <!-- menu -->
+        <div id='menu'>
+            
+            
+                <ul>
+	<li><a href='/'><span><span>HOME</span></span></a></li>
+	<li><a href='/mastercheff/'><span><span>MasterCheff</span></span></a></li>
+	<li><a href='/gemball/'><span><span>Gemball</span></span></a></li>
+	<li><a href='http://www.fragaria.cz/'><span><span>Fragaria.cz</span></span></a></li>
+</ul>
+            
+        </div>
+        <!-- /menu -->
+
+        <!-- content decoration -->
+        <div id='decorationContent'>
+            <div id='center'>
+                <div id='centerDecoration'>
+
+                    <!-- content -->
+                    <div id='content'>
+
+                        <!-- content of article(s) -->
+                        <div id='article' role='main'>
+                            
+
+    
+    
+    
+
+        <h2>trips</h2>
+
+        
+        
+
+    
+        
+
+                        </div>
+                        <!-- /content of article(s) -->
+                    
+                        <!-- right column -->
+                        <div id='right'>
+                            <img src='/static/img/photos/reklama.jpg' alt=''/>
+                        </div>
+                        <!-- /right column -->
+
+                        <!-- navigation -->
+                        <div id='navigation' role='navigation'>
+                            
+                                 
+
+    Nacházíte se: <a href='/'>Hlavní stránka</a>
+    >> <a href='/trips/'>trips</a>
+
+
+                            
+                        </div>
+                        <!-- /navigation -->
+
+                        <br class='reset'/>
+                    </div>
+                    <!-- /content -->
+
+                </div>
+
+                <!-- search -->
+                <form id="search" action="/vyhledavani/" >
+                    <div>
+                        <input id ="query" type="hidden" name="cx" value='009313606427272340601:ilom8pk5hd0' />
+                        <input type="hidden" name="cof" value="FORID:11" />
+                        <input type="hidden" name="ie" value="UTF-8" />
+                        <span><input type="text" name="q" size="10" id="googleInput" placeholder="Hledej na Skrabilek.cz"/></span>
+                        <input type="submit" name="sa" class='button' value="Hledej"/>
+                    </div>
+                </form>
+                <!-- /search -->
+
+            </div>
+        </div>
+        <!-- /content decoration -->
+
+        <hr />
+
+        <!-- footer -->
+        <div id="foot">
+    
+    
+</div>
+
+        <!-- /footer -->
+
+        <ul class='blind' role='navigation'>
+            <li><a href='#content'>Na začátek obsahu</a></li>
+            <li><a href='#nav'>Na menu</a></li>
+        </ul>
+    </body>
+</html>
